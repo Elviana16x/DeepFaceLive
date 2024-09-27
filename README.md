@@ -56,71 +56,17 @@ examples
 
 </table>
 
-<table align="center" border="0">
-<tr><td align="center">
-Bryan Greynolds
-
-<img src="doc/celebs/Bryan_Greynolds/Bryan_Greynolds.png" width=128></img>
-
-<a href="doc/celebs/Bryan_Greynolds/examples.md">examples</a>
-</td><td align="center">
-Mr. Bean
-
-<img src="doc/celebs/Mr_Bean/Mr_Bean.png" width=128></img>
-
-examples
-</td><td align="center">
-Ewon Spice
-
-<img src="doc/celebs/Ewon_Spice/Ewon_Spice.png" width=128></img>
-
-<a href="doc/celebs/Ewon_Spice/examples.md">examples</a>
-
-</td><td align="center">
 Natasha Former
 
 <img src="doc/celebs/Natasha_Former/Natasha_Former.png" width=128></img>
 
 <a href="doc/celebs/Natasha_Former/examples.md">examples</a>
 
-</td><td align="center">
-Emily Winston
-
-<img src="doc/celebs/Emily_Winston/Emily_Winston.png" width=128></img>
-
-<a href="doc/celebs/Emily_Winston/examples.md">examples</a>
-
-</td></tr></table>
-<table align="center" border="0">
-<tr><td align="center">
-Ava de Addario
-
-<img src="doc/celebs/Ava_de_Addario/Ava_de_Addario.png" width=128></img>
-
 <a href="doc/celebs/Ava_de_Addario/examples.md">examples</a>
 </td><td align="center">
 Dilraba Dilmurat
 
 <img src="doc/celebs/Dilraba_Dilmurat/Dilraba_Dilmurat.png" width=128></img>
-
-examples
-</td><td align="center">
-Matilda Bobbie
-
-<img src="doc/celebs/Matilda_Bobbie/Matilda_Bobbie.png" width=128></img>
-
-<a href="doc/celebs/Matilda_Bobbie/examples.md">examples</a>
-</td><td align="center">
-Yohanna Coralson
-
-<img src="doc/celebs/Yohanna_Coralson/Yohanna_Coralson.png" width=128></img>
-
-<a href="doc/celebs/Yohanna_Coralson/examples.md">examples</a>
-
-</td><td align="center">
-Amber Song
-
-<img src="doc/celebs/Amber_Song/Amber_Song.png" width=128></img>
 
 
 <table align="center" border="0">
