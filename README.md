@@ -10,9 +10,9 @@ Kamu dapat menukar wajahmu dari webcam atau wajah dalam video menggunakan foto o
 
 Program ini dibuat untuk pembelajaran dari perkembangan teknologi saat ini.
 
-</br>Gunakan program ini dengan bijak.
+Gunakan program ini dengan bijak.
 
-</br>Jangan menggunakannya untuk melakukan tindak kejahatan yang dapat merugikan orang lain.
+Jangan menggunakannya untuk melakukan tindak kejahatan yang dapat merugikan orang lain.
 
 </td></tr>
 
