@@ -9,8 +9,8 @@ Kamu dapat menukar wajahmu dari webcam atau wajah dalam video menggunakan foto o
 <img src="doc/Testing.gif"></img>
 
 Program ini dibuat untuk pembelajaran dari perkembangan teknologi saat ini.
-Gunakan program ini dengan bijak.
-Jangan menggunakannya untuk melakukan tindak kejahatan yang dapat merugikan orang lain.
+</br>Gunakan program ini dengan bijak.
+</br>Jangan menggunakannya untuk melakukan tindak kejahatan yang dapat merugikan orang lain.
 
 </td></tr>
 
