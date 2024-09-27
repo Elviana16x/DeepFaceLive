@@ -3,7 +3,6 @@
 <tr><td colspan=2 align="center">
 
 ![](doc/deepface_intro.png)
-
 </td></tr>
 </table>
 <table align="center" border="0">
