@@ -4,8 +4,6 @@
 
 ![](doc/deepfacelive_intro.png)
 
-![](doc/logo_onnx.png)![](doc/logo_directx.png)![](doc/logo_python.png)
-
 </td></tr>
 </table>
 <table align="center" border="0">
