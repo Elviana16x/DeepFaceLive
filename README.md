@@ -37,10 +37,14 @@ Irina Arty
 
 examples
 </td><td align="center">
+    
 Rob Doe
 
 <img src="doc/celebs/Rob_Doe/Rob_Doe.png" width=128></img>
 
+<a href="doc/celebs/Rob_Doe/Rob_Doe/examples.md">examples</a>
+</td><td align="center">
+    
 Natasha Former
 
 <img src="doc/celebs/Natasha_Former/Natasha_Former.png" width=128></img>
@@ -53,7 +57,6 @@ Natasha Former
 </table>
 
 
-<a href="doc/celebs/Ava_de_Addario/examples.md">examples</a>
 </td><td align="center">
 Dilraba Dilmurat
 
