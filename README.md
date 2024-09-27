@@ -101,7 +101,7 @@ Tina Shift
 </td></tr>
 
 <tr><td colspan=2 align="center">
-Jika kamu menginginkan kualitas yang lebih tinggi atau kecocokan wajah yang lebih baik, kamu dapat melatih model wajahmu sendiri menggunakan `DeepFaceLab` yang dilatih pada wajah tertentu dan digunakan dalam panggilan video.
+Jika kamu menginginkan kualitas yang lebih tinggi atau kecocokan wajah yang lebih baik, kamu dapat melatih model wajahmu sendiri menggunakan 'DeepFaceLab' yang dilatih pada wajah tertentu dan digunakan dalam panggilan video.
 
 </td></tr>
 
@@ -113,7 +113,7 @@ Jika kamu menginginkan kualitas yang lebih tinggi atau kecocokan wajah yang lebi
 
 ## Face Animator
 
-There is also a Face Animator module in DeepFaceLive app. You can control a static face picture using video or your own face from the camera. The quality is not the best, and requires fine face matching and tuning parameters for every face pair, but enough for funny videos and memes or real-time streaming at 25 fps using 35 TFLOPS GPU.
+Ada juga modul 'Face Animator' di aplikasi 'DeepFaceLive'. kamu dapat mengontrol gambar wajah statis menggunakan video atau wajahmu sendiri dari kamera. Kualitasnya bukan yang terbaik dan memerlukan parameter pencocokan dan penyetelan wajah yang bagus untuk setiap pasangan wajah, tetapi cukup untuk video lucu dan meme atau streaming real-time pada 25 fps menggunakan GPU 35 TFLOPS.
 
 <img src="doc/face_animator_example.gif"></img>
 
