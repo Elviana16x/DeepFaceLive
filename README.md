@@ -1,6 +1,6 @@
 <table align="center" border="0">
 
-<tr><td colspan=0 align="center">
+<tr><td colspan=5 align="center">
 
 ![](doc/deepface_intro.png)
 
