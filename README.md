@@ -347,17 +347,8 @@ NVIDIA build : NVIDIA cards only, GT730 and higher. Works faster than DX12. Face
 
 <tr><td align="right">
 <a href="https://mrdeepfakes.com/forums/">mrdeepfakes</a>
-</td><td align="left">the biggest NSFW English deepfake community</td></tr>
+</td><td align="left">the biggest NSFW English deepfake community</td>
 
-<tr><td align="right">
-<a href="https://www.dfldata.cc">dfldata.cc</a>
-</td><td align="left">中文交流论坛，免费软件教程、模型、人脸数据</td></tr>
-
-<tr><td align="right">
-QQ群124500433
-</td><td align="left">中文交流QQ群，商务合作找群主</td></tr>
-
-</td></tr>
 <tr><td colspan=2 align="center">
 
 ## How can I help the project?
@@ -372,13 +363,6 @@ Register github account and push "Star" button.
 <!--<tr><td colspan=2 align="center">
 <a href="https://www.paypal.com/paypalme/DeepFaceLab">Donate via Paypal</a>
 </td></tr>-->
-<tr><td colspan=2 align="center">
-<a href="https://yoomoney.ru/to/41001142318065">Donate via Yoomoney</a>
-</td></tr>
-<tr><td colspan=2 align="center">
-bitcoin:bc1qewl062v70rszulml3f0mjdjrys8uxdydw3v6rq
-</td></tr>
-<tr><td colspan=2 align="center">
 
 
 <!--
