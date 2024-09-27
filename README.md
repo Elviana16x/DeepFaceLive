@@ -2,7 +2,7 @@
 
 <tr><td colspan=2 align="center">
 
-![](doc/deepfacelive_intro.png)
+![](doc/deepface_intro.png)
 
 </td></tr>
 </table>
