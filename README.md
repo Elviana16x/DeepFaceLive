@@ -35,7 +35,7 @@ Irina Arty
 
 <img src="doc/celebs/Irina_Arty/Irina_Arty.png" width=128></img>
 
-examples
+<a href="doc/celebs/Irina_Arty/Irina_Arty/examples.md">examples</a>
 </td><td align="center">
     
 Rob Doe
@@ -65,6 +65,7 @@ Dilraba Dilmurat
 
 <a href="doc/celebs/Natalie_Fatman/examples.md">examples</a>
 </td><td align="center">
+    
 Liu Lice
 
 <img src="doc/celebs/Liu_Lice/Liu_Lice.png" width=128></img>
@@ -78,6 +79,7 @@ Meggie Merkel
 
 <a href="doc/celebs/Meggie_Merkel/examples.md">examples</a>
 </td><td align="center">
+    
 Tina Shift
 
 <img src="doc/celebs/Tina_Shift/Tina_Shift.png" width=128></img>
