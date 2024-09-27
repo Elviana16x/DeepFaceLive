@@ -127,13 +127,13 @@ Ada juga modul 'Face Animator' di aplikasi 'DeepFaceLive'. kamu dapat mengontrol
 
 ## System requirements
 
-any DirectX12 compatible graphics card
+Kartu grafis apa pun yang kompatibel dengan DirectX12
 
-(Recommended RTX 2070+ / Radeon RX 5700 XT+ )
+(Direkomendasikan RTX 2070+ / Radeon RX 5700 XT+ )
 
-Modern CPU with AVX instructions
+CPU modern dengan instruksi AVX
 
-4GB RAM, 32GB+ paging file
+RAM 4GB, file paging 32GB+
 
 Windows 10
 
@@ -181,11 +181,11 @@ Frequently asked questions
 
 
 </td><td align="left">
-Contains stand-alone zero-dependency all-in-one ready-to-use portable self-extracting folder! You don't need to install anything other than video drivers.
+Berisi folder self-extracting portabel all-in-one yang berdiri sendiri dan siap digunakan! Kamu tidak perlu menginstal apa pun selain driver video.
 <br><br>
-DirectX12 build : NVIDIA, AMD, Intel videocards.
+DirectX12 dibuat : NVIDIA, AMD, Intel videocards.
 <br><br>
-NVIDIA build : NVIDIA cards only, GT730 and higher. Works faster than DX12. FaceMerger can work also on AMD/Intel.
+NVIDIA dibuat : Khusus kartu NVIDIA, GT730 dan lebih tinggi. Bekerja lebih cepat dari DX12. FaceMerger juga dapat bekerja pada AMD/Intel.
 </td></tr>
 
 <!--<tr><td colspan=2 align="center">
