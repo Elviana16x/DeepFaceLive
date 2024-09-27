@@ -50,7 +50,6 @@ Natasha Former
 <img src="doc/celebs/Natasha_Former/Natasha_Former.png" width=128></img>
 
 <a href="doc/celebs/Natasha_Former/examples.md">examples</a>
-</td><td align="center">
     
 </td></tr>
 
@@ -58,8 +57,7 @@ Natasha Former
 
 <table align="center" border="0">
 <tr><td align="center">
-
-</td><td align="center">
+    
 Dilraba Dilmurat
 
 <img src="doc/celebs/Dilraba_Dilmurat/Dilraba_Dilmurat.png" width=128></img>
