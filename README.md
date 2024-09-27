@@ -1,8 +1,9 @@
 <table align="center" border="0">
 
-<tr><td colspan=2 align="center">
+<tr><td colspan=0 align="center">
 
 ![](doc/deepface_intro.png)
+
 </td></tr>
 </table>
 <table align="center" border="0">
