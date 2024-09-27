@@ -105,9 +105,7 @@ Here is an <a href="https://www.tiktok.com/@arnoldschwarzneggar/video/6995538782
 
 You can swap your face from a webcam or the face in the video using your own single photo.
 
-<img src="doc/lukashenko.png" width=128></img>
-
-<img src="doc/insight_faceswap_example.gif"></img>
+<img src="doc/Testing.gif"></img>
 
 </td></tr>
 
