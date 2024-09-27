@@ -23,12 +23,14 @@ These persons do not exists. Similarities with real people are accidental. Excep
 
 <table align="center" border="0">
 <tr><td align="center">
+    
 Keanu Reeves
 
 <img src="doc/celebs/Keanu_Reeves/Keanu_Reeves.png" width=128></img>
 
 <a href="doc/celebs/Keanu_Reeves/examples.md">examples</a>
 </td><td align="center">
+    
 Irina Arty
 
 <img src="doc/celebs/Irina_Arty/Irina_Arty.png" width=128></img>
@@ -39,15 +41,17 @@ Rob Doe
 
 <img src="doc/celebs/Rob_Doe/Rob_Doe.png" width=128></img>
 
-</td></tr>
-
-</table>
-
 Natasha Former
 
 <img src="doc/celebs/Natasha_Former/Natasha_Former.png" width=128></img>
 
 <a href="doc/celebs/Natasha_Former/examples.md">examples</a>
+</td><td align="center">
+    
+</td></tr>
+
+</table>
+
 
 <a href="doc/celebs/Ava_de_Addario/examples.md">examples</a>
 </td><td align="center">
