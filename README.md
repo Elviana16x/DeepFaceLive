@@ -56,6 +56,8 @@ Natasha Former
 
 </table>
 
+<table align="center" border="0">
+<tr><td align="center">
 
 </td><td align="center">
 Dilraba Dilmurat
