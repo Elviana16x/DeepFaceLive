@@ -37,9 +37,11 @@ Irina Arty
 
 <a href="doc/celebs/Irina_Arty/Irina_Arty/examples.md">examples</a>
 </td><td align="center">
+    
 Rob Doe
 
 <img src="doc/celebs/Rob_Doe/Rob_Doe.png" width=128></img>
+
 <a href="doc/celebs/Rob_Doe/Rob_Doe/examples.md">examples</a>
 </td><td align="center">
     
