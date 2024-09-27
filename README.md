@@ -45,13 +45,6 @@ Rob Doe
 
 <img src="doc/celebs/Rob_Doe/Rob_Doe.png" width=128></img>
 
-<a href="doc/celebs/Rob_Doe/examples.md">examples</a>
-</td><td align="center">
-Jesse Stat
-
-<img src="doc/celebs/Jesse_Stat/Jesse_Stat.png" width=128></img>
-
-examples
 </td></tr>
 
 </table>
@@ -68,12 +61,6 @@ Dilraba Dilmurat
 
 <img src="doc/celebs/Dilraba_Dilmurat/Dilraba_Dilmurat.png" width=128></img>
 
-
-<table align="center" border="0">
-<tr align="center"><td>
-Natalie Fatman
-
-<img src="doc/celebs/Natalie_Fatman/Natalie_Fatman.png" width=128></img>
 
 <a href="doc/celebs/Natalie_Fatman/examples.md">examples</a>
 </td><td align="center">
