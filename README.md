@@ -40,7 +40,6 @@ Irina Arty
 Rob Doe
 
 <img src="doc/celebs/Rob_Doe/Rob_Doe.png" width=128></img>
-
 <a href="doc/celebs/Rob_Doe/Rob_Doe/examples.md">examples</a>
 </td><td align="center">
     
