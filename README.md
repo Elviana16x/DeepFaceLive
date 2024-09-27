@@ -35,12 +35,6 @@ Irina Arty
 
 examples
 </td><td align="center">
-Millie Park
-
-<img src="doc/celebs/Millie_Park/Millie_Park.png" width=128></img>
-
-examples
-</td><td align="center">
 Rob Doe
 
 <img src="doc/celebs/Rob_Doe/Rob_Doe.png" width=128></img>
@@ -70,13 +64,7 @@ Liu Lice
 
 <a href="doc/celebs/Liu_Lice/examples.md">examples</a>
 </td><td align="center">
-Albica Johns
 
-<img src="doc/celebs/Albica_Johns/Albica_Johns.png" width=128></img>
-
-<a href="doc/celebs/Albica_Johns/examples.md">examples</a>
-
-</td><td align="center">
 Meggie Merkel
 
 <img src="doc/celebs/Meggie_Merkel/Meggie_Merkel.png" width=128></img>
