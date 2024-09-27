@@ -337,29 +337,7 @@ DirectX12 build : NVIDIA, AMD, Intel videocards.
 <br><br>
 NVIDIA build : NVIDIA cards only, GT730 and higher. Works faster than DX12. FaceMerger can work also on AMD/Intel.
 </td></tr>
-<tr><td colspan=2 align="center">
 
-## Communication groups
-
-<tr><td align="right">
-<a href="https://discord.gg/rxa7h9M6rH">Discord</a>
-</td><td align="left">Official discord channel. English / Russian.</td></tr>
-
-<tr><td align="right">
-<a href="https://mrdeepfakes.com/forums/">mrdeepfakes</a>
-</td><td align="left">the biggest NSFW English deepfake community</td>
-
-<tr><td colspan=2 align="center">
-
-## How can I help the project?
-
-</td></tr>
-<tr><td colspan=2 align="center">
-Train your own face model by following the recommendations in the FAQ section and share it on Discord. If the model fits the quality, it will be added to the public library.
-</td></tr>
-<tr><td colspan=2 align="center">
-Register github account and push "Star" button.
-</td></tr>
 <!--<tr><td colspan=2 align="center">
 <a href="https://www.paypal.com/paypalme/DeepFaceLab">Donate via Paypal</a>
 </td></tr>-->
