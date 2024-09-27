@@ -122,8 +122,6 @@ There is also a Face Animator module in DeepFaceLive app. You can control a stat
 
 <img src="doc/face_animator_example.gif"></img>
 
-[![Stranger Things theme intro acapella](doc/Ng1C78Ceyxg_screenshot.png)]
-
 </td></tr>
 
 </table>
