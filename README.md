@@ -4,9 +4,11 @@
 
 ![](doc/deepface_intro.png)
 
-You can swap your face from a webcam or the face in the video using your own single photo.
+Kamu dapat menukar wajahmu dari webcam atau wajah dalam video menggunakan foto orang lain.
 
 <img src="doc/Testing.gif"></img>
+
+Program ini dibuat untuk pembelajaran dari perkembangan teknologi saat ini, gunakan program ini dengan bijak, jangan menggunakannya untuk melakukan tindak kejahatan yang dapat merugikan orang lain.
 
 </td></tr>
 
@@ -17,11 +19,11 @@ You can swap your face from a webcam or the face in the video using your own sin
 
 ## Face Swap (DFM)
 
-You can swap your face from a webcam or the face in the video using trained face models.
+Kamu dapat menukar wajahmu dari webcam atau wajah di video menggunakan model wajah terlatih.
 
-Here is a list of available ready-to-use public face models.
+Berikut daftar model wajah siap pakai yang tersedia.
 
-These persons do not exists. Similarities with real people are accidental. Except Keanu Reeves. He exists, and he's breathtaking!
+Saya dan teman-teman saya mencoba untuk mengembangakan teknologi yang ada saat ini.
 </td></tr>
 
 <tr><td colspan=2 align="center">
