@@ -25,16 +25,12 @@ These persons do not exists. Similarities with real people are accidental. Excep
 <tr><td align="center">
     
 Keanu Reeves
-
 <img src="doc/celebs/Keanu_Reeves/Keanu_Reeves.png" width=128></img>
-
 <a href="doc/celebs/Keanu_Reeves/examples.md">examples</a>
 </td><td align="center">
     
 Irina Arty
-
 <img src="doc/celebs/Irina_Arty/Irina_Arty.png" width=128></img>
-
 <a href="doc/celebs/Irina_Arty/Irina_Arty/examples.md">examples</a>
 </td><td align="center">
     
