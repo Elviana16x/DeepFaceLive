@@ -62,7 +62,7 @@ Elon Musk
 <a href="doc/celebs/Elon_Musk/examples.md">examples</a>
 </td><td align="center">
     
-Tina Shift
+Walter Lewis
 
 <img src="doc/celebs/Walter_Lewis.jpg" width=128></img>
 
