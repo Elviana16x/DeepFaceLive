@@ -43,7 +43,7 @@ Dilraba Dilmurat
 <a href="doc/celebs/Dilraba_Dilmurat/examples.md">examples</a>
 </td><td align="center">
     
-Tina Shift
+Meggie Merkel
 
 <img src="doc/celebs/Meggie_Merkel/Meggie_Merkel.png" width=128></img>
 
