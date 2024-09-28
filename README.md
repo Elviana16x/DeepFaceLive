@@ -63,13 +63,6 @@ Liu Lice
 
 <a href="doc/celebs/Liu_Lice/examples.md">examples</a>
 </td><td align="center">
-
-Meggie Merkel
-
-<img src="doc/celebs/Meggie_Merkel/Meggie_Merkel.png" width=128></img>
-
-<a href="doc/celebs/Meggie_Merkel/examples.md">examples</a>
-</td><td align="center">
     
 Tina Shift
 
