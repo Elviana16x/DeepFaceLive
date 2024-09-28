@@ -43,18 +43,12 @@ Dilraba Dilmurat
 <a href="doc/celebs/Dilraba_Dilmurat/examples.md">examples</a>
 </td><td align="center">
     
-Irina Arty
+Meggie Merkel
 
-<img src="doc/celebs/Irina_Arty/Irina_Arty.png" width=128></img>
+<img src="doc/celebs/Meggie_Merkel/Meggie_Merkel.png" width=128></img>
 
-<a href="doc/celebs/Irina_Arty/Irina_Arty/examples.md">examples</a>
+<a href="doc/celebs/Meggie_Merkel/examples.md">examples</a>
 </td><td align="center">
-    
-Natasha Former
-
-<img src="doc/celebs/Natasha_Former/Natasha_Former.png" width=128></img>
-
-<a href="doc/celebs/Natasha_Former/examples.md">examples</a>
     
 </td></tr>
 
