@@ -1,3 +1,10 @@
+## Stacoverflow : @Elviana16x
+- Program ini dibuat untuk pembelajaran dari perkembangan teknologi saat ini.
+
+- Gunakan program ini dengan bijak.
+
+- Jangan menggunakannya untuk melakukan tindak kejahatan yang dapat merugikan orang lain.
+
 <table align="center" border="0">
 
 <tr><td colspan=2 align="center">
@@ -7,12 +14,6 @@
 Kamu dapat menukar wajahmu dari webcam atau wajah dalam video menggunakan foto orang lain.
 
 <img src="doc/Testing.gif"></img>
-
-Program ini dibuat untuk pembelajaran dari perkembangan teknologi saat ini.
-
-Gunakan program ini dengan bijak.
-
-Jangan menggunakannya untuk melakukan tindak kejahatan yang dapat merugikan orang lain.
 
 </td></tr>
 
