@@ -55,7 +55,7 @@ Wonyoung
 <table align="center" border="0">
 <tr><td align="center">
     
-Liu Lice
+Elon Musk
 
 <img src="doc/celebs/Elon_Musk.jpg" width=128></img>
 
