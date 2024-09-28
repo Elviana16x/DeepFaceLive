@@ -22,7 +22,7 @@ Kamu dapat menukar wajahmu dari webcam atau wajah dalam video menggunakan foto o
 
 <tr><td colspan=2 align="center">
 
-## Face Swap (DFM)
+## Tukar Wajah (DFM)
 
 Kamu dapat menukar wajahmu dari webcam atau wajah di video menggunakan model wajah terlatih.
 
@@ -112,7 +112,7 @@ Jika kamu menginginkan kualitas yang lebih tinggi atau kecocokan wajah yang lebi
 
 <tr><td colspan=2 align="center">
 
-## Face Animator
+## Animator Wajah
 
 Ada juga modul 'Face Animator' di aplikasi 'DeepFaceLive'. kamu dapat mengontrol gambar wajah statis menggunakan video atau wajahmu sendiri dari kamera. Kualitasnya bukan yang terbaik dan memerlukan parameter pencocokan dan penyetelan wajah yang bagus untuk setiap pasangan wajah, tetapi cukup untuk video lucu dan meme atau streaming real-time pada 25 fps menggunakan GPU 35 TFLOPS.
 
@@ -126,7 +126,7 @@ Ada juga modul 'Face Animator' di aplikasi 'DeepFaceLive'. kamu dapat mengontrol
 
 <tr><td colspan=2 align="center">
 
-## System requirements
+## Persyaratan Sistem
 
 Kartu grafis apa pun yang kompatibel dengan DirectX12
 
@@ -141,37 +141,37 @@ Windows 10
 </td></tr>
 <tr><td colspan=2 align="center">
 
-## Documentation
+## Dokumentasi
 
 </td></tr>
 <tr><td align="right">
 Windows
 </td><td align="left">
 
-<a href="doc/windows/main_setup.md">Main setup</a>
+<a href="doc/windows/main_setup.md">Pengaturan utama</a>
 
-- <a href="doc/windows/for_streaming.md">additional setup for streaming</a>
+- <a href="doc/windows/for_streaming.md">pengaturan tambahan untuk streaming</a>
 
-- <a href="doc/windows/for_video_calls.md">additional setup for video calls</a>       
+- <a href="doc/windows/for_video_calls.md">pengaturan tambahan untuk panggilan video</a>       
 
-<a href="doc/windows/using_android_phone_camera.md">Using Android phone camera</a>  
+<a href="doc/windows/using_android_phone_camera.md">Menggunakan kamera ponsel Android</a>  
 
 </td></tr>
 <tr><td align="right">
 Linux
 </td><td align="left">
-<a href="build/linux">Build info</a>
+<a href="build/linux">Membangun informasi</a>
 </td></tr>
 <tr><td align="right">
-Frequently asked questions
+Pertanyaan yang sering diajukan
 </td><td align="left">
-<a href="doc/user_faq/user_faq.md">for User</a>
+<a href="doc/user_faq/user_faq.md">untuk Pengguna</a>
 
-<a href="doc/developer_faq/developer_faq.md">for Developer</a>
+<a href="doc/developer_faq/developer_faq.md">untuk Developer</a>
 </td></tr>
 <tr><td colspan=2 align="center">
 
-## Releases
+## Rilis
 
 </td></tr>
 <tr><td align="right">
