@@ -36,11 +36,11 @@ Saya dan teman-teman saya mencoba untuk mengembangakan teknologi yang ada saat i
 <table align="center" border="0">
 <tr><td align="center">
     
-Keanu Reeves
+Dilraba Dilmurat
 
-<img src="doc/celebs/Keanu_Reeves/Keanu_Reeves.png" width=128></img>
+<img src="doc/celebs/Dilraba_Dilmurat/Dilraba_Dilmurat.png" width=128></img>
 
-<a href="doc/celebs/Keanu_Reeves/examples.md">examples</a>
+<a href="doc/celebs/Dilraba_Dilmurat/examples.md">examples</a>
 </td><td align="center">
     
 Irina Arty
@@ -48,13 +48,6 @@ Irina Arty
 <img src="doc/celebs/Irina_Arty/Irina_Arty.png" width=128></img>
 
 <a href="doc/celebs/Irina_Arty/Irina_Arty/examples.md">examples</a>
-</td><td align="center">
-    
-Rob Doe
-
-<img src="doc/celebs/Rob_Doe/Rob_Doe.png" width=128></img>
-
-<a href="doc/celebs/Rob_Doe/Rob_Doe/examples.md">examples</a>
 </td><td align="center">
     
 Natasha Former
@@ -69,14 +62,6 @@ Natasha Former
 
 <table align="center" border="0">
 <tr><td align="center">
-    
-Dilraba Dilmurat
-
-<img src="doc/celebs/Dilraba_Dilmurat/Dilraba_Dilmurat.png" width=128></img>
-
-
-<a href="doc/celebs/Natalie_Fatman/examples.md">examples</a>
-</td><td align="center">
     
 Liu Lice
 
