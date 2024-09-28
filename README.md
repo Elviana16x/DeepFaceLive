@@ -45,9 +45,9 @@ Dilraba Dilmurat
     
 Tina Shift
 
-<img src="doc/celebs/Tina_Shift/Tina_Shift.png" width=128></img>
+<img src="doc/celebs/Meggie_Merkel/Meggie_Merkel.png" width=128></img>
 
-<a href="doc/celebs/Tina_Shift/examples.md">examples</a>
+<a href="doc/celebs/Meggie_Merkel/examples.md">examples</a>
 </td></tr>
 
 </table>
