@@ -49,7 +49,6 @@ Meggie Merkel
 
 <a href="doc/celebs/Meggie_Merkel/examples.md">examples</a>
 </td><td align="center">
-    
 </td></tr>
 
 </table>
@@ -69,7 +68,9 @@ Tina Shift
 <img src="doc/celebs/Tina_Shift/Tina_Shift.png" width=128></img>
 
 <a href="doc/celebs/Tina_Shift/examples.md">examples</a>
-</td></tr></table>
+</td></tr>
+
+</table>
 
 </td></tr>
 
