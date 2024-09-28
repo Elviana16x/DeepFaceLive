@@ -57,7 +57,7 @@ Wonyoung
     
 Elon Musk
 
-<img src="doc/celebs/Elon_Musk.jpg" width=128></img>
+<img src="doc/celebs/Elon_Musk.jpeg" width=128></img>
 
 <a href="doc/celebs/Elon_Musk/examples.md">examples</a>
 </td><td align="center">
