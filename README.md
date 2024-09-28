@@ -35,19 +35,19 @@ Saya dan teman-teman saya mencoba untuk mengembangakan teknologi yang ada saat i
 
 <table align="center" border="0">
 <tr><td align="center">
-    
-Dilraba Dilmurat
 
-<img src="doc/celebs/Dilraba_Dilmurat/Dilraba_Dilmurat.png" width=128></img>
+Eunha
 
-<a href="doc/celebs/Dilraba_Dilmurat/examples.md">examples</a>
+<img src="doc/celebs/Eunha.jpg" width=128></img>
+
+<a href="doc/celebs/Eunha/examples.md">examples</a>
 </td><td align="center">
     
-Meggie Merkel
+Wonyoung
 
-<img src="doc/celebs/Meggie_Merkel/Meggie_Merkel.png" width=128></img>
+<img src="doc/celebs/Wonyoung.jpg" width=128></img>
 
-<a href="doc/celebs/Meggie_Merkel/examples.md">examples</a>
+<a href="doc/celebs/Wonyoung/examples.md">examples</a>
 </td></tr>
 
 </table>
@@ -57,16 +57,16 @@ Meggie Merkel
     
 Liu Lice
 
-<img src="doc/celebs/Liu_Lice/Liu_Lice.png" width=128></img>
+<img src="doc/celebs/Elon_Musk.jpg" width=128></img>
 
-<a href="doc/celebs/Liu_Lice/examples.md">examples</a>
+<a href="doc/celebs/Elon_Musk/examples.md">examples</a>
 </td><td align="center">
     
 Tina Shift
 
-<img src="doc/celebs/Tina_Shift/Tina_Shift.png" width=128></img>
+<img src="doc/celebs/Walter_Lewis.jpg" width=128></img>
 
-<a href="doc/celebs/Tina_Shift/examples.md">examples</a>
+<a href="doc/celebs/Walter_Lewis/examples.md">examples</a>
 </td></tr>
 
 </table>
