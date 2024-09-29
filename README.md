@@ -47,7 +47,7 @@ Wonyoung
 
 <img src="doc/celebs/Wonyoung.jpg" width=128></img>
 
-<a href="doc/celebs/Wonyoung/examples.md">examples</a>
+<a href="doc/celebs/Wonyoung.jpg">examples</a>
 </td></tr>
 
 </table>
@@ -59,14 +59,14 @@ Elon Musk
 
 <img src="doc/celebs/Elon_Musk.jpeg" width=128></img>
 
-<a href="doc/celebs/Elon_Musk/examples.md">examples</a>
+<a href="doc/celebs/Elon_Musk.jpeg">examples</a>
 </td><td align="center">
     
 Walter Lewis
 
 <img src="doc/celebs/Walter_Lewis.jpg" width=128></img>
 
-<a href="doc/celebs/Walter_Lewis/examples.md">examples</a>
+<a href="doc/celebs/Walter_Lewis.jpg">examples</a>
 </td></tr>
 
 </table>
