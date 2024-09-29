@@ -40,7 +40,7 @@ Eunha
 
 <img src="doc/celebs/Eunha.jpg" width=128></img>
 
-<a href="doc/celebs/Eunha/examples.md">examples</a>
+<a href="doc/celebs/Eunha.jpg">examples</a>
 </td><td align="center">
     
 Wonyoung
